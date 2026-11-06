@@ -1,0 +1,289 @@
+{
+  "student_info": {
+    "name": "นายณัฐนันท์ พินธุเดช",
+    "role": "นักศึกษา"
+  },
+  "summary": {
+    "credits": {
+      "min_required": 124,
+      "enrolled": 108,
+      "passed": 87,
+      "remaining": 19,
+      "status": "FAIL"
+    },
+    "study_period": {
+      "max_years": 16,
+      "enrolled_years": 4,
+      "current_year_level": 3,
+      "status": "PASS"
+    },
+    "gpa": {
+      "min_gpax": 2.00,
+      "gpax": 3.06,
+      "major_gpa": 0.00,
+      "status": "PASS"
+    },
+    "skill_test_results": {
+      "computer_skill": "FAIL",
+      "language_skill": "FAIL",
+      "status": "FAIL"
+    }
+  },
+  "curriculum_structure": [
+    {
+      "category_code": "1",
+      "category_name": "หมวดวิชาศึกษาทั่วไป",
+      "required_credits": 30,
+      "subcategories": [
+        {
+          "code": "1.1",
+          "name": "กลุ่มวิชาภาษาและการสื่อสาร",
+          "required_credits": 9,
+          "items": [
+            {
+              "code": "1.1.1",
+              "name": "กลุ่มวิชาภาษาอังกฤษ",
+              "credits": 6,
+              "ca": 3,
+              "cs": 3,
+              "cw": 3,
+              "cg": 3,
+              "pt": 10.5,
+              "gpa": 3.50,
+              "status": "FAIL"
+            },
+            {
+              "code": "1.1.2",
+              "name": "กลุ่มวิชาภาษาไทยและภาษาอื่น",
+              "credits": 3,
+              "ca": null,
+              "cs": null,
+              "cw": 3,
+              "cg": null,
+              "pt": null,
+              "gpa": null,
+              "status": "FAIL"
+            }
+          ]
+        },
+        {
+          "code": "1.2",
+          "name": "กลุ่มวิชามนุษยศาสตร์และสังคมศาสตร์",
+          "required_credits": 12,
+          "items": [
+            {
+              "code": "1.2.1",
+              "name": "กลุ่มวิชามนุษยศาสตร์",
+              "credits": 3,
+              "ca": null,
+              "cs": null,
+              "cw": 3,
+              "cg": null,
+              "pt": null,
+              "gpa": null,
+              "status": "FAIL"
+            },
+            {
+              "code": "1.2.2",
+              "name": "กลุ่มวิชามนุษยศาสตร์",
+              "credits": 3,
+              "ca": null,
+              "cs": null,
+              "cw": 3,
+              "cg": null,
+              "pt": null,
+              "gpa": null,
+              "status": "FAIL"
+            },
+            {
+              "code": "1.2.3",
+              "name": "กลุ่มวิชาสังคมศาสตร์",
+              "credits": 3,
+              "ca": 3,
+              "cs": 3,
+              "cw": null,
+              "cg": 3,
+              "pt": 7.5,
+              "gpa": 2.50,
+              "status": "PASS"
+            },
+            {
+              "code": "1.2.4",
+              "name": "กลุ่มวิชาสังคมศาสตร์",
+              "credits": 3,
+              "ca": null,
+              "cs": null,
+              "cw": 3,
+              "cg": null,
+              "pt": null,
+              "gpa": null,
+              "status": "FAIL"
+            }
+          ]
+        },
+        {
+          "code": "1.3",
+          "name": "กลุ่มวิชาวิทยาศาสตร์ คณิตศาสตร์ เทคโนโลยีและการกีฬา",
+          "required_credits": 9,
+          "items": [
+            {
+              "code": "1.3.1",
+              "name": "กลุ่มวิชาวิทยาศาสตร์",
+              "credits": 3,
+              "ca": 3,
+              "cs": 3,
+              "cw": null,
+              "cg": 3,
+              "pt": 10.5,
+              "gpa": 3.50,
+              "status": "PASS"
+            },
+            {
+              "code": "1.3.2",
+              "name": "กลุ่มวิชาคณิตศาสตร์",
+              "credits": 3,
+              "ca": null,
+              "cs": null,
+              "cw": 3,
+              "cg": null,
+              "pt": null,
+              "gpa": null,
+              "status": "FAIL"
+            },
+            {
+              "code": "1.3.3",
+              "name": "กลุ่มวิชาเทคโนโลยีและการกีฬา",
+              "credits": 3,
+              "ca": 3,
+              "cs": 3,
+              "cw": null,
+              "cg": 3,
+              "pt": 9.0,
+              "gpa": 3.00,
+              "status": "PASS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_code": "2",
+      "category_name": "หมวดวิชาเฉพาะ",
+      "required_credits": 88,
+      "subcategories": [
+        {
+          "code": "2.1",
+          "name": "กลุ่มวิชาแกน",
+          "required_credits": 9,
+          "items": [
+            {
+              "code": "2.1",
+              "name": "กลุ่มวิชาแกน",
+              "credits": 9,
+              "ca": 9,
+              "cs": 9,
+              "cw": null,
+              "cg": 9,
+              "pt": 28.5,
+              "gpa": 3.16,
+              "status": "PASS"
+            }
+          ]
+        },
+        {
+          "code": "2.2",
+          "name": "วิชาเฉพาะด้าน",
+          "required_credits": 53,
+          "items": [
+            {
+              "code": "2.2.1",
+              "name": "กลุ่มประเด็นด้านองค์การและระบบสารสนเทศ",
+              "credits": 9,
+              "ca": 6,
+              "cs": 6,
+              "cw": 3,
+              "cg": 6,
+              "pt": 24.0,
+              "gpa": 4.00,
+              "status": "FAIL"
+            },
+            {
+              "code": "2.2.2",
+              "name": "กลุ่มเทคโนโลยีและวิธีการประยุกต์",
+              "credits": 23,
+              "ca": 15,
+              "cs": 18,
+              "cw": 8,
+              "cg": 15,
+              "pt": 42.0,
+              "gpa": 2.80,
+              "status": "FAIL"
+            },
+            {
+              "code": "2.2.3",
+              "name": "กลุ่มเทคโนโลยีและบริการทางซอฟต์แวร์",
+              "credits": 12,
+              "ca": 9,
+              "cs": 12,
+              "cw": 3,
+              "cg": 9,
+              "pt": 28.5,
+              "gpa": 3.16,
+              "status": "PASS"
+            },
+            {
+              "code": "2.2.4",
+              "name": "กลุ่มโครงสร้างพื้นฐานของระบบ",
+              "credits": 9,
+              "ca": 6,
+              "cs": 6,
+              "cw": 3,
+              "cg": 6,
+              "pt": 12.0,
+              "gpa": 2.00,
+              "status": "FAIL"
+            }
+          ]
+        },
+        {
+          "code": "2.3",
+          "name": "วิชาเลือก",
+          "required_credits": 18,
+          "items": [
+            {
+              "code": "2.3",
+              "name": "วิชาเลือก",
+              "credits": 18,
+              "ca": 12,
+              "cs": 18,
+              "cw": 6,
+              "cg": 12,
+              "pt": 39.0,
+              "gpa": 3.25,
+              "status": "PASS"
+            }
+          ]
+        },
+        {
+          "code": "2.4",
+          "name": "วิชาประสบการณ์ภาคสนามและสหกิจศึกษา",
+          "required_credits": 8,
+          "items": [
+            {
+              "code": "2.4",
+              "name": "วิชาประสบการณ์ภาคสนามและสหกิจศึกษา",
+              "credits": 8,
+              "ca": null,
+              "cs": null,
+              "cw": 8,
+              "cg": null,
+              "pt": null,
+              "gpa": null,
+              "status": "FAIL"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
